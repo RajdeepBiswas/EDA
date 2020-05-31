@@ -2,16 +2,18 @@
 # File: Ex_1_4_RBiswas.py
 # Name: Rajdeep Biswas
 # Date: 05/31/2020
+# Git Location: https://github.com/RajdeepBiswas/EDA/blob/master/Ex_1_4_RBiswas.py
+
 # Desc: EDA Exercise 1.4 for the following tasks
-#Display the text “Hello World! I wonder why that is always the default coding text to start with”
-#Add two numbers together
-#Subtract a number from another number
-#Multiply two numbers
-#Divide between two numbers
-#Concatenate two strings together (any words)
-#Create a list of 4 items (can be strings, numbers, both)
-#Append  an item to your list (again, can be a string, number)
-#Create a tuple with 4 items (can be strings, numbers, both)
+# Display the text “Hello World! I wonder why that is always the default coding text to start with”
+# Add two numbers together
+# Subtract a number from another number
+# Multiply two numbers
+# Divide between two numbers
+# Concatenate two strings together (any words)
+# Create a list of 4 items (can be strings, numbers, both)
+# Append  an item to your list (again, can be a string, number)
+# Create a tuple with 4 items (can be strings, numbers, both)
 # -------------------------------------------------------------------------
 
 #Display the text “Hello World! I wonder why that is always the default coding text to start with”

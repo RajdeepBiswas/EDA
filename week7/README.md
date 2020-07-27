@@ -1,1 +1,1 @@
-Added week7 solutions
+Week7 solutions
